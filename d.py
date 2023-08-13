@@ -4,7 +4,7 @@ import subprocess
 username = 'zack1284'
 password = 'ASDFasdf0203'
 repository_url = 'git@github.com:zack1284/Pytest-experiment.git'
-branch_name = 'test'  # Replace with the appropriate branch name
+branch_name = 'main'  # Replace with the appropriate branch name
 
 # Add and commit changes using Git CLI
 subprocess.run(['git', 'add', '.'])
