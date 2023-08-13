@@ -2,7 +2,7 @@ import subprocess
 
 # Replace these with your actual credentials and repository details
 username = 'zack1284'
-password = 'ASDFasdf0203'
+password = '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'
 repository_url = 'git@github.com:zack1284/Pytest-experiment.git'
 branch_name = 'main'  # Replace with the appropriate branch name
 
